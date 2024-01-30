@@ -7,3 +7,6 @@ I find this article to be interesting because it not only describes software eng
 
 **Christina Borao (crb623)**: 
 This was a super interesting article. I enjoyed learning about the differences between specific roles in the field of computer science. As a computer science major, this is valuable information to know. 
+
+**Adam Schwartz (ags613)**<br>
+I found this article intersting because it highlights the overlaps between Software Engineering and Computer Science while also discussing how much of what you need to know for software engineering falls through the cracks in terms of a computer science degree. I find that it relates to me personally with the reason I chose to take this course, as I feel unprepared to be a software engineer even though I will soon be completing my computer science degree.
